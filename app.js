@@ -1,5 +1,10 @@
-let nombre="emi";
-let edad = 34;
-let apellido = "santucho";
+let nombre="Blas";
+let edad = 23;
+let apellido = "Lescano";
 
-console.log("Nombre: " , nombre, "Apellido: ", apellido, "Edad: ", edad);
+let num = 1;
+
+while (num <= 10) {
+    console.log(num);
+    num++;
+}
